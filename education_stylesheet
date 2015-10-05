@@ -1,0 +1,67 @@
+
+.butt {
+    background-color: #4ECDC4;
+}
+
+#outer {
+	text-align: center;
+}
+
+#buttons {
+    border: none;
+}
+
+#tufts {
+    height: 100px;
+    width: 100px;
+    background-color: #4ECDC4;
+    border-radius: 100%;
+    display: inline-block;
+    border: none;
+    font-family: Monaco;
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#work {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    display: inline-block;
+    border: none;
+    font-family: Monaco;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+#home {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    border: none;
+    display: inline-block;
+    font-family: Monaco;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+#life {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    display: inline-block;
+    border: none;
+    font-family: Monaco;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+
+
+#logo {
+	color: #4ECDC4;
+	background-color: #FFFFFF;
+	border: none;
+	font-size: 38px;
+	font-family: Monaco;
+}
